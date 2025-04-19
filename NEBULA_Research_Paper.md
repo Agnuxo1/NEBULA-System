@@ -1,6 +1,6 @@
 # NEBULA: Un Sistema de IA Basado en Física Óptica Avanzada y Física Cuántica para Optimización de Grandes Modelos de Lenguaje
 
-**Autores:** Agnuxo1 y colaboradores  
+**Autores:** Francisco Angulo de Lafuente
 **Fecha:** Abril 2025
 
 ## Resumen
