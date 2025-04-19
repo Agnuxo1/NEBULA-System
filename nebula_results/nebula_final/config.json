@@ -1,0 +1,20 @@
+{
+  "qsm": {
+    "n_qubits": 6,
+    "coherence_time": 1.0
+  },
+  "bnnm": {
+    "layer_sizes": [
+      64,
+      96,
+      48,
+      32
+    ],
+    "use_contextual_activation": true
+  },
+  "hmm": {
+    "dimensions": 384,
+    "capacity": 1000,
+    "storage_path": "./nebula_data/memory"
+  }
+}

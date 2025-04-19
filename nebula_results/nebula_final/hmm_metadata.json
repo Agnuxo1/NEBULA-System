@@ -1,0 +1,55 @@
+{
+  "pattern_count": 4,
+  "id_to_index": {
+    "ce89a16895dff3eb08a26765dcb0e3c3": 0,
+    "5786b500ee9d961504e46d9157111ecb": 1,
+    "ae75455009823ae2be2fa17088fd4c0f": 2,
+    "be076d085f02ae245514d1a52ec885e0": 3
+  },
+  "metadata": {
+    "ce89a16895dff3eb08a26765dcb0e3c3": {
+      "chunk_index": 0,
+      "total_chunks": 1,
+      "document_id": null,
+      "original_text": "La f\u00edsica cu\u00e1ntica es una rama fundamental de la f\u00edsica que describe la naturaleza a escalas at\u00f3micas y subat\u00f3micas. A diferencia de la f\u00edsica cl\u00e1sica, la f\u00edsica cu\u00e1ntica introduce conceptos revolucionarios como la superposici\u00f3n de estados, donde las part\u00edculas pueden existir en m\u00faltiples estados simult\u00e1neamente hasta ser observadas. El entrelazamiento cu\u00e1ntico es otro fen\u00f3meno fascinante donde part\u00edculas entrelazadas mantienen correlaciones instant\u00e1neas independientemente de la distancia que las separe.",
+      "topic": "f\u00edsica cu\u00e1ntica",
+      "importance": "alta",
+      "category": "fundamentos",
+      "timestamp": "2025-04-19T06:18:44.361084",
+      "data_type": "str"
+    },
+    "5786b500ee9d961504e46d9157111ecb": {
+      "chunk_index": 0,
+      "total_chunks": 1,
+      "document_id": null,
+      "original_text": "La holograf\u00eda es una t\u00e9cnica avanzada que permite registrar y reconstruir im\u00e1genes tridimensionales completas. Se basa en el fen\u00f3meno de interferencia de ondas luminosas coherentes, t\u00edpicamente generadas por l\u00e1seres. En un proceso hologr\u00e1fico, un haz de luz se divide en dos: un haz de referencia que llega directamente a la placa fotogr\u00e1fica y un haz de objeto que se refleja en el objeto a holografiar antes de llegar a la placa.",
+      "topic": "holograf\u00eda",
+      "importance": "alta",
+      "category": "tecnolog\u00eda \u00f3ptica",
+      "timestamp": "2025-04-19T06:18:44.361429",
+      "data_type": "str"
+    },
+    "ae75455009823ae2be2fa17088fd4c0f": {
+      "chunk_index": 0,
+      "total_chunks": 1,
+      "document_id": null,
+      "original_text": "Las redes neuronales artificiales son modelos computacionales inspirados en el funcionamiento del cerebro humano. Est\u00e1n compuestas por unidades de procesamiento interconectadas llamadas neuronas artificiales, organizadas en capas. La capa de entrada recibe los datos iniciales, las capas ocultas realizan transformaciones complejas, y la capa de salida produce el resultado final.",
+      "topic": "redes neuronales",
+      "importance": "alta",
+      "category": "inteligencia artificial",
+      "timestamp": "2025-04-19T06:18:44.361689",
+      "data_type": "str"
+    },
+    "be076d085f02ae245514d1a52ec885e0": {
+      "chunk_index": 0,
+      "total_chunks": 1,
+      "document_id": null,
+      "original_text": "La optimizaci\u00f3n de modelos de lenguaje mediante principios cu\u00e1nticos y hologr\u00e1ficos representa una frontera innovadora en inteligencia artificial. Los grandes modelos de lenguaje (LLMs) convencionales requieren enormes recursos computacionales debido a su arquitectura basada en transformers con atenci\u00f3n completa. La aplicaci\u00f3n de principios cu\u00e1nticos permite representar informaci\u00f3n en espacios de alta dimensionalidad con menor n\u00famero de par\u00e1metros.",
+      "topic": "optimizaci\u00f3n de LLMs",
+      "importance": "alta",
+      "category": "investigaci\u00f3n avanzada",
+      "timestamp": "2025-04-19T06:18:44.361952",
+      "data_type": "str"
+    }
+  }
+}
